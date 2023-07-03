@@ -13,4 +13,3 @@ Buildability
 - In blue:
     - There is no version of the sailor's shirt with blue and black stripes, only blue and white
     - The ragged sailor's shirt was only produced in red
-    - Need to confirm what shirt the queen wears
