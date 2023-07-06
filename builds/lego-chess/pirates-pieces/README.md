@@ -1,4 +1,7 @@
-![](pirate-pieces.png)
+Pirates Pieces
+==============
+
+![](pirates-pieces.png)
 
 Notes
 -----
@@ -9,7 +12,7 @@ Notes
 Buildability
 ------------
 - In both red and blue:
-    - The pirate captain's torso was not produced in red
+    - The pirate captain's torso was not produced in red or blue
 - In blue:
     - There is no version of the sailor's shirt with blue and black stripes, only blue and white
     - The ragged sailor's shirt was only produced in red
