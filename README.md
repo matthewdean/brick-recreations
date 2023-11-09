@@ -8,7 +8,7 @@ Create and preserve digital representations of buildable models present in LEGO 
 ### LEGO Design
 | Image | Name |
 |-|-|
-| ![](builds/lego-design/ds2023-cosmic-daydreams/ds2023-cosmic-daydreams) | [DS2023 Cosmic Daydreams](/builds/lego-design/ds2023-cosmic-daydreams)
+| ![](builds/lego-design/ds2023-cosmic-daydreams/ds2023-cosmic-daydreams.png) | [DS2023 Cosmic Daydreams](/builds/lego-design/ds2023-cosmic-daydreams)
 
 ### LEGO Chess (1998)
 | Image | Name |
