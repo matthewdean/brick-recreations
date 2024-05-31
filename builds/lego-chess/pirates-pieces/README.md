@@ -11,8 +11,11 @@ Notes
 
 Buildability
 ------------
-- In both red and blue:
-    - The pirate captain's torso was not produced in red or blue
-- In blue:
-    - There is no version of the sailor's shirt with blue and black stripes, only blue and white
-    - The ragged sailor's shirt was only produced in red
+Piece | Buildable in Red? | Buildable in Blue? | Reason
+-- | -- | -- | --
+Pawn | Yes | No | For blue piece, the sailor's shirt was not produced with blue and black stripes, only blue and white
+Rook  | Yes | Yes | 
+Knight | Yes | No | For blue, torso was never produced with blue shirt.
+Bishop | Yes | Yes |
+Queen | Yes | No | For blue, [torso](https://www.bricklink.com/v2/catalog/catalogitem.page?P=973px136c01) not produced in blue.
+King | No | No | Torso not produced in red or blue.
