@@ -42,4 +42,5 @@ The latter two websites were active as late as 2001 or 2002 which allowed Intern
 * `/help/helprocks.asp` and `/help/helpfriends.asp` - help pages for LEGO Rock Raiders and LEGO Friends respectively
 * `/postoffice/postofficebob.asp` and `/postoffice/postofficeloco.asp` - pages for sending Biker Bob or LEGO Loco-themed email postcards
 * Nearly all game screenshots, excluding `/images/chess/screen02.gif` and `/images/loco/screen04.gif`
-* `/downloads/Lchessupgr.exe`, a patch for LEGO Chess as described on `/help/helpchess.asp`. I believe this patch has been archived from other sites.
+* `/downloads/Lchessupgr.exe`, a patch for LEGO Chess as described on `/help/helpchess.asp`.
+* `/event/go.asp`, which at one point featured a comic with Biker Bob
