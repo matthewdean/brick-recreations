@@ -18,6 +18,8 @@ The latter two websites were active as late as 2001 or 2002 which allowed Intern
     * Changed file extensions of all .asp files to .html so the website can be loaded without custom software
     * Changed links from `href="http://www.legomedia.com/"` to `href="/default.html"`.
     * Changed `javascript:newwindow('post*.asp')` to `javascript:newwindow('/postoffice/post*.asp')`
+    * I copied files from `press.legomedia.com` and put them in the `/press` directory, so the contents of that directory may be anachronistic
+    * Created `index.html` files which redirect to `default.html` so that links from e.g. /ourstuff work correctly.
 
 ## Website History
 * According to HTML comments, the website was developed by Icon Medialab AG, Hamburg (http://www.iconmedialab.com).
@@ -26,8 +28,10 @@ The latter two websites were active as late as 2001 or 2002 which allowed Intern
     * `/products.asp` - renamed to `/ourstuff.asp` after 1999-05-08
         * the corresponding `/`images/products/` directory was also renamed to `/images/ourstuff/`
     * `/press` - entire directory moved to press.lego.com
-* Initially pages could only be visited with their .asp file extension but at some point navigating to a directory (e.g. `/creator/`) started serving any file named default.asp in that directory (e.g. `/creator/default.asp`).
-* The `/cgi-bin/postoffice.exe/` was a server-side executable which could not have been preserved. It accepted `POST` requests with these form parameters:
+* Initially pages could only be visited with their .asp file extension but by 1999-10-07, navigating to a directory (e.g. `/racers/`) started serving the file `default.asp` from that directory (e.g. `/racers/default.asp`).
+
+## Notable Missing Files
+* `/cgi-bin/postoffice.exe/` was a server-side executable which could not have been preserved. It accepted `POST` requests with these form parameters:
     * `preview` - `0` for no preview, `1` for preview
     * `cardtype` - `1` for creator, `4` for chess
     * `greeting`- a user-supplied message
@@ -35,3 +39,7 @@ The latter two websites were active as late as 2001 or 2002 which allowed Intern
     * `toname` - the recipient's name
     * `from` - sender's email address
     * `fromname` - the sender's name
+* `/help/helprocks.asp` and `/help/helpfriends.asp` - help pages for LEGO Rock Raiders and LEGO Friends respectively
+* `/postoffice/postofficebob.asp` and `/postoffice/postofficeloco.asp` - pages for sending Biker Bob or LEGO Loco-themed email postcards
+* Nearly all game screenshots, excluding `/images/chess/screen02.gif` and `/images/loco/screen04.gif`
+* `/downloads/Lchessupgr.exe`, a patch for LEGO Chess as described on `/help/helpchess.asp`. I believe this patch has been archived from other sites.
