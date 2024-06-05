@@ -20,6 +20,7 @@ The latter two websites were active as late as 2001 or 2002 which allowed Intern
     * Changed `javascript:newwindow('post*.asp')` to `javascript:newwindow('/postoffice/post*.asp')`
     * I copied files from `press.legomedia.com` and put them in the `/press` directory, so the contents of that directory may be anachronistic
     * Created `index.html` files which redirect to `default.html` so that links from e.g. /ourstuff work correctly.
+    * `/downloads/Lchessupgr.exe` was sourced from Internet Archive's [2014 backup of `ftp.easports.com`](https://archive.org/details/ftp.easports.com)
 
 ## Website History
 * According to HTML comments, the website was developed by Icon Medialab AG, Hamburg (http://www.iconmedialab.com).
@@ -42,5 +43,4 @@ The latter two websites were active as late as 2001 or 2002 which allowed Intern
 * `/help/helprocks.asp` and `/help/helpfriends.asp` - help pages for LEGO Rock Raiders and LEGO Friends respectively
 * `/postoffice/postofficebob.asp` and `/postoffice/postofficeloco.asp` - pages for sending Biker Bob or LEGO Loco-themed email postcards
 * Nearly all game screenshots, excluding `/images/chess/screen02.gif` and `/images/loco/screen04.gif`
-* `/downloads/Lchessupgr.exe`, a patch for LEGO Chess as described on `/help/helpchess.asp`.
 * `/event/go.asp`, which at one point featured a comic with Biker Bob
