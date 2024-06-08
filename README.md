@@ -18,6 +18,17 @@ Note that LEGO is a trademark of the LEGO Group of companies which does not spon
 | ![](models/lego-chess/pirates-pieces/pirates-pieces.png) | [Pirates Chess Pieces](/models/lego-chess/pirates-pieces)
 | ![](models/lego-chess/western-pieces/western-pieces.png) | [Western Chess Pieces](/buimodelslds/lego-chess/western-pieces)
 
+### LEGO Rock Raiders
+#### Prototypes
+
+#### Alternate Builds
+| Image | Name |
+|-|-|
+| ![](models/lego-rock-raiders/alternate-builds/double-laser-vehicle/double-laser-vehicle.png) | [Double-Laser Vehicle](/models/lego-rock-raiders/alternate-builds/double-laser-vehicle)
+| ![](models/lego-rock-raiders/alternate-builds/laser-buggy/laser-buggy.png) | [Laser Buggy](/models/lego-rock-raiders/alternate-builds/laser-buggy)
+| ![](models/lego-rock-raiders/alternate-builds/mining-craft/mining-craft.png) | [Mining Craft](/models/lego-rock-raiders/alternate-builds/mining-craft)
+| ![](models/lego-rock-raiders/alternate-builds/unnamed-drilling-vehicle/unnamed-drilling-vehicle.png) | [Unnamed Drilling Vehicle](/models/lego-rock-raiders/alternate-builds/unnamed-drilling-vehicle)
+
 ## Websites
 | URL | Description |
 | - | - |
