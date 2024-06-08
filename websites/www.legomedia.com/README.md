@@ -21,6 +21,7 @@ The latter two websites were active as late as 2001 or 2002 which allowed Intern
     * I copied files from `press.legomedia.com` and put them in the `/press` directory, so the contents of that directory may be anachronistic
     * Created `index.html` files which redirect to `default.html` so that links from e.g. /ourstuff work correctly.
     * `/downloads/Lchessupgr.exe` was sourced from Internet Archive's [2014 backup of `ftp.easports.com`](https://archive.org/details/ftp.easports.com)
+    * Copied `/press/img/lego_logo.gif` from `/images/log032x32.gif`, assuming both are same image (both 32x32 GIFs)
 
 ## Website History
 * According to HTML comments, the website was developed by Icon Medialab AG, Hamburg (http://www.iconmedialab.com).
