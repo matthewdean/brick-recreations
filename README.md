@@ -25,7 +25,6 @@ Read our [Contribution Guidelines](contributing.md) to learn how you can help wi
     *  [Western Chess Pieces](/models/lego-chess/western-pieces)
 
 ## Websites
-| URL | Description |
+| Domain | Description |
 | - | - |
 | [www.legomedia.com](/websites/www.legomedia.com/) | Lego Media International website |
-| [press.legomedia.com](/websites/press.legomedia.com/) | Lego Media International press website  |

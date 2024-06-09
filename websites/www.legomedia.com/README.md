@@ -31,7 +31,6 @@ The latter two websites were active as late as 2001 or 2002 which allowed Intern
     * `/home.asp` - renamed to `/default.asp` between 1999-05-07 and 1999-10-07
     * `/products.asp` - renamed to `/ourstuff.asp` after 1999-05-08
         * the corresponding `/`images/products/` directory was also renamed to `/images/ourstuff/`
-    * `/press` - entire directory moved to press.lego.com
 * Initially pages could only be visited with their .asp file extension but by 1999-10-07, navigating to a directory (e.g. `/racers/`) started serving the file `default.asp` from that directory (e.g. `/racers/default.asp`).
 
 ## Notable Missing Files
