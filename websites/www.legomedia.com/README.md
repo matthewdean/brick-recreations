@@ -33,7 +33,68 @@ The latter two websites were active as late as 2001 or 2002 which allowed Intern
         * the corresponding `/`images/products/` directory was also renamed to `/images/ourstuff/`
 * Initially pages could only be visited with their .asp file extension but by 1999-10-07, navigating to a directory (e.g. `/racers/`) started serving the file `default.asp` from that directory (e.g. `/racers/default.asp`).
 
-## Notable Missing Files
+## Missing Files (non-comprehensive)
+|Path|Notes|
+|-|-|
+| /cgi-bin/postoffice.exe/ |  |
+| /help/helprocks.asp | Help page for LEGO Rock Raiders |
+| /help/helpfriends.asp | Help page for LEGO Friends |
+| /postoffice/postofficebob.asp | Send or view Biker Bob-themed email postcards |
+| /postoffice/postofficeloco.asp | Send or view LEGO LOCO-themed email postcards |
+| /event/go.asp| A comic featuring Biker Bob |
+| /images/ourstuff/btnloco.gif | LEGO LOCO Logo with orange background and blue border |
+| /images/help/undhelp06c.gif | Bottom half of phrase "Help!" in Comic Sans |
+| /images/Help/icoracerslogo.gif | LEGO Racers logo on green background |
+| /images/Help/txtracershead.gif | Header for LEGO Racers help page |
+| /images/postoffice/bntpostoffice01.gif | Biker Bob in a blue circle on a bright green background |
+| /images/postoffice/undpostoffice01.gif | Top right corner of a blue circle on a bright green background |
+| /images/parents/txtparentsabout.gif | Header for Parents about page |
+| /images/help/undloco3.gif | Unknown image on LOCO help page |
+| /images/help/undloco2.gif | Unknown image on LOCO help page |
+| /images/rockraiders/undrock`01-09`.gif |  |
+| /images/rockraiders/undrock11.gif |  |
+| /images/rockraiders/undrock15.gif |  |
+| /images/rockraiders/undrock04a.gif |  |
+| /images/rockraiders/undrock04f.gif |  |
+| /images/rockraiders/undrock12b.gif |  |
+| /images/rockraiders/undrock12c.gif |  |
+| /images/rockraiders/undrock12e.gif |  |
+| /images/rockraiders/undrock13b.gif |  |
+| /images/rockraiders/undrock14b.gif |  |
+| /images/rockraiders/undrock31.gif |  |
+| /images/rockraiders/txtrockraiders01.gif |  |
+| /images/postoffice/bntviewcard.gif | Image button to view email postcard |
+| /images/postoffice/bntback.gif | Image button to return to postcard home page |
+| /images/postcardcreator/bgrcreator.gif | Background with orange in upper left, bright green on bottom |
+| /images/postcardchess/bgrchess.gif | Background with blue in upper left, orange on bottom, yellow in upper right
+| /images/postcardchess/txtchessemail.gif | "email:" in Comic Sans on blue background
+| images/racers/btnracers02.gif |  |
+| images/racers/btnracers03.gif |  |
+| images/racers/undbw02.gif |  |
+| images/racers/undbw03.gif |  |
+| images/racers/btnracers16.gif |  |
+| images/racers/btnracers17.gif |  |
+| images/racers/undbw05.gif |  |
+| images/racers/btnracers19.gif |  |
+| images/racers/undbw07.gif |  |
+| images/racers/undracers16.gif |  |
+| images/racers/undracers19.gif |  |
+| images/racers/undracers18.gif |  |
+| /racers/racersscreenshots1 |  |
+| /racers/racersscreenshots2 |  |
+| /racers/racersscreenshots3 |  |
+| /racers/racersscreenshots4 |  |
+| /images/racers/btnracers02.gif | |
+| /images/racers/btnracers03.gif | |
+| /images/racers/txtracers01a.gif | |
+| /images/racers/a.gif | |
+| /images/racers/b.gif | |
+| images/racers/c.gif | |
+| /images/racers/d.gif | |
+| /images/racers/e.gif | |
+| /images/racers/f.gif | |
+| /racers/undracers08a.gif | |
+
 * `/cgi-bin/postoffice.exe/` was a server-side executable which could not have been preserved. It accepted `POST` requests with these form parameters:
     * `preview` - `0` for no preview, `1` for preview
     * `cardtype` - `1` for creator, `4` for chess
@@ -42,7 +103,6 @@ The latter two websites were active as late as 2001 or 2002 which allowed Intern
     * `toname` - the recipient's name
     * `from` - sender's email address
     * `fromname` - the sender's name
-* `/help/helprocks.asp` and `/help/helpfriends.asp` - help pages for LEGO Rock Raiders and LEGO Friends respectively
-* `/postoffice/postofficebob.asp` and `/postoffice/postofficeloco.asp` - pages for sending Biker Bob or LEGO Loco-themed email postcards
+
 * Nearly all game screenshots, excluding `/images/chess/screen02.gif` and `/images/loco/screen04.gif`
 * `/event/go.asp`, which at one point featured a comic with Biker Bob
