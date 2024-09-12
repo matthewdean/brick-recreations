@@ -22,7 +22,8 @@ Read our [Contribution Guidelines](contributing.md) to learn how you can help wi
     * [DS2023 Cosmic Daydreams](/models/lego-design/ds2023-cosmic-daydreams/)
 * LEGO Chess (1998)
     * [Pirates Chess Pieces](/models/lego-chess/pirates-pieces)
-    *  [Western Chess Pieces](/models/lego-chess/western-pieces)
+    * [Western Chess Pieces](/models/lego-chess/western-pieces)
+    * [Classic Chess Pieces](/models/lego-chess/classic-pieces)
 
 ### LEGO Rock Raiders
 #### Prototypes
