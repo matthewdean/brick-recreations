@@ -18,20 +18,10 @@ Read our [Contribution Guidelines](contributing.md) to learn how you can help wi
 
 ## Models
 * [BIONICLE](/models/bionicle/)
-* LEGO Design
-    * [DS2023 Cosmic Daydreams](/models/lego-design/ds2023-cosmic-daydreams/)
+* [Rock Raiders](models/rock-raiders)
 * LEGO Chess (1998)
-    * [Pirates Chess Pieces](/models/lego-chess/pirates-pieces)
-    * [Western Chess Pieces](/models/lego-chess/western-pieces)
-    * [Classic Chess Pieces](/models/lego-chess/classic-pieces)
-
-### LEGO Rock Raiders
-#### Prototypes
-
-#### Alternate Builds
-| Image | Name |
-|-|-|
-| ![](models/lego-rock-raiders/alternate-builds/double-laser-vehicle/double-laser-vehicle.png) | [Double-Laser Vehicle](/models/lego-rock-raiders/alternate-builds/double-laser-vehicle)
-| ![](models/lego-rock-raiders/alternate-builds/laser-buggy/laser-buggy.png) | [Laser Buggy](/models/lego-rock-raiders/alternate-builds/laser-buggy)
-| ![](models/lego-rock-raiders/alternate-builds/mining-craft/mining-craft.png) | [Mining Craft](/models/lego-rock-raiders/alternate-builds/mining-craft)
-| ![](models/lego-rock-raiders/alternate-builds/unnamed-drilling-vehicle/unnamed-drilling-vehicle.png) | [Unnamed Drilling Vehicle](/models/lego-rock-raiders/alternate-builds/unnamed-drilling-vehicle)
+  * [Pirates Chess Pieces](/models/lego-chess/pirates-pieces)
+  * [Western Chess Pieces](/models/lego-chess/western-pieces)
+  * [Classic Chess Pieces](/models/lego-chess/classic-pieces)
+* LEGO Design
+  * [DS2023 Cosmic Daydreams](/models/lego-design/ds2023-cosmic-daydreams/)
