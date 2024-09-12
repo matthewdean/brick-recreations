@@ -19,7 +19,7 @@ Read our [Contribution Guidelines](contributing.md) to learn how you can help wi
 ## Models
 * [BIONICLE](/models/bionicle/)
 * [Rock Raiders](models/rock-raiders)
-* LEGO Chess (1998)
+* [LEGO Chess (1998)](models/lego-chess)
   * [Pirates Chess Pieces](/models/lego-chess/pirates-pieces)
   * [Western Chess Pieces](/models/lego-chess/western-pieces)
   * [Classic Chess Pieces](/models/lego-chess/classic-pieces)
