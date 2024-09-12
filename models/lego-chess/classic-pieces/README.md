@@ -7,6 +7,7 @@ Notes
 -----
 * Unsure if the knight's design is correct
 * In the game, some pieces on the pawn, bishop, and queen are oriented at 45 degrees. Those same pieces, when shown in a cutscene, are oriented at 90 degrees
+* The opening cutscene shows an axle sticking out of the partially assembled king piece, which has not been accounted for in this build
 
 Buildability
 ------------
