@@ -15,6 +15,9 @@ Piece | Buildable in White? | Buildable in Black? | Reason
 King | No | Yes | Inverted funnel not available in white
 Queen | No | Yes | Inverted funnel not available in white
 Bishop | No | Yes | Inverted funnel not available in white
+Knight | Yes | Yes |
+Rook | Yes | Yes |
+Pawn | Yes | Yes |
 
 Sources
 -------
